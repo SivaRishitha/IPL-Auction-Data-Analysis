@@ -2,6 +2,12 @@
 
 ## Table of contents
 
+- [Data Wrangling](#datawrangling)
+- [Data manipulation](#datamanipulation)
+- [Exploratory Data Analysis](#exploratorydataanalysis)
+- [Regression](#regression)
+- [Classification](#classification)
+
 
 ## Data Wrangling 
 
