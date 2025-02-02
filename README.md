@@ -26,7 +26,17 @@ Adding extra features like price difference, increament ratio which would be hel
 ![image](https://github.com/user-attachments/assets/84c4894d-4878-4aeb-b918-a0f958a2fd1f) ![image](https://github.com/user-attachments/assets/fb30b265-4af1-46d5-9d64-2c7e34f59d35)
 ![image](https://github.com/user-attachments/assets/1de79a06-3278-4ac3-bad4-42041863c96c) ![image](https://github.com/user-attachments/assets/a9da6103-7539-4653-aa91-5dc4a2ce75e4)
 
+## Regression
 
+![image](https://github.com/user-attachments/assets/8274d7b1-e0b0-4422-ba8d-b6a710836277)
+
+
+
+
+## Classification
+
+![image](https://github.com/user-attachments/assets/b92b727d-94aa-4c98-b010-cffb8101afcf)
+![image](https://github.com/user-attachments/assets/c1c26a76-cecb-446e-8772-4c5e9682deb3)
 
 
 
