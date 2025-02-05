@@ -7,7 +7,7 @@
 - [Exploratory Data Analysis](#exploratorydataanalysis)
 - [Regression](#regression)
 - [Classification](#classification)
-
+- [collab link](#collablink)
 
 ## Data Wrangling 
 
@@ -44,6 +44,8 @@ Adding extra features like price difference, increament ratio which would be hel
 ![image](https://github.com/user-attachments/assets/b92b727d-94aa-4c98-b010-cffb8101afcf)
 ![image](https://github.com/user-attachments/assets/c1c26a76-cecb-446e-8772-4c5e9682deb3)
 
+## collab link
+https://colab.research.google.com/drive/1i4nDR2DorBn0D5y6dmIl_lj6tcg75Mmm?usp=sharing
 
 
 
